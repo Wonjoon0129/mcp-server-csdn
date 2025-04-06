@@ -1,0 +1,34 @@
+csdn:
+  api:
+    categories: Java场景面试宝典
+    cookie: ${CSDN_API_COOKIE:uuid_tt_dd=10_37486673270-1734692034115-423113; fid=20_34206475217-1734692034690-859907; UN=kjihi; p_uid=U010000; __gads=ID=19cd0f1fbe3970cf:T=1734692289:RT=1735795544:S=ALNI_MYwL9XRl7xmnXrQEMfP_LCFKDzEiA; __gpi=UID=00000fae032897e0:T=1734692289:RT=1735795544:S=ALNI_Ma6Tv1iegxQm7VqHR_Z_YZ2pjIHdQ; __eoi=ID=2b31ba90e1564a7e:T=1734692289:RT=1735795544:S=AA-AfjYz6q898XYxb6iAB7TpfX85; c_dl_prid=-; c_dl_rid=1735796183255_447630; c_dl_fref=https://so.csdn.net/so/search; c_dl_fpage=/download/shenfengwuying/3874801; c_dl_um=-; _clck=1r6e5b%7C2%7Cfu7%7C0%7C1815; dc_sid=3add6d2a2157464d7acab25049e9465f; dc_session_id=11_1743852320103.183778; c_first_ref=default; c_first_page=https%3A//blog.csdn.net/kjihi/article/details/144818557%3Fsharetype%3Dblogdetail%26sharerId%3D144818557%26sharerefer%3DPC%26sharesource%3Dkjihi%26spm%3D1011.2480.3001.8118; c_dsid=11_1743852320103.186827; c_segment=9; Hm_lvt_6bcd52f51e9b3dce32bec4a3997715ac=1741959049,1743852320; ssxmod_itna=Qq+x97DteCqx0DAxBamQk2r4WqiIxXv5wvEmeQD/YBIDnqD=GFDK40EEgAeTrNtNb0ia0x7+0Bh3Dg02DLmdOArcKa/IDAoDhx7QDox0=DnxAQDjh2eGGUxBYDQxAYDGDDP9DGTN8uD7Etymut6QwQUiLtDmRQ2DGQuDiUoxi5xguXSn3+DxA32D7tZQudDbqDuQcj5LqDLIQWTxB=2DYPazk9OxBQ=5udDCxXZSuQkv7GpWz4sbhqF3YxI+BhxQG+K7+Eeb3+YlYOjwGopMBAdQo1DGfwo4vDxD; ssxmod_itna2=Qq+x97DteCqx0DAxBamQk2r4WqiIxXv5wvEmeG9bwBzDBq+hq7pxSF7GF9ATAoiBPNqDXrDitqZWm02edoDWShhV+Dn0LkNjPo9=zOyRGIUs=z2EjtYneZfwOvwv=5kcKVnhcT8InGeiCl+5phKq2Z971caaSWqaofwsBDnmzWqz8rE5negmUogi52Y=1=0H=tIv61gdLIIWtIBjIbdjv8fLR8IvEcPXC3PXTFm7EcKFYuOI//8k=x=xVeg0yCm2Dx6vtfcfUewUZFChu=K2wS3fqjnBTRPn7hkkVtFkAxeWlBBZKnyk9xq/xfGrj/9MRpyQ5UjP0K54dySI9gfbj4a41p0YaPqP2+mb8q2tRH8T7DcifxpGF7A44Mb4WcBlG4ZhbFaYfExbWHj9iAb9/OFzpwlg3ETqbxDKTeQio+Sxo2YxnE2G3rainhqqDDLxD2zGDD==; tfstk=gcYExkXqJav_1eLEE1bz0HSciC7d5wDbxU65ZQAlO9Xn2L9zUOJ8RUOWZ3zyMOQBNHTSzdJWNzOIpLayQKp4PXKBFTvNNs4uEM4uSPfc-gKCF96PzQpq1xgjlBddywMjhqwm9U7Pk6XlxkclS_bPtd-ABkRdyaD_1zmjuBp0aylyracNS_55taq3xfyGwO4hZyfuIf5RIa4hqaVMs61ft_XkECcNwOXlraYogCALw_snNCo9GniVLMWDtOz26F5HSkdFQy4H7hSFnzWarzYNTCZ2pNznuOxBqe_M-A2ASIK6K17qz75w0CbhTL3YJwADs3jez0NAehRMcG-TOXCw8I8PgMyiTTLBLUSpoxaOKh89zwtsLr6RqhTdDeMg8ZxvOwtkIb4lUhfl402RszP6yHyu4MfO_tGZ_6i5eMgkqS972uIKy1WjtZZ82MjF_tGZ_uERvhCNhXbf.; c_page_id=default; SESSION=03f3a829-1b4c-4df8-adf4-6c98c63a8346; c_pref=https%3A//blog.csdn.net/kjihi/article/details/144818557%3Fsharetype%3Dblogdetail%26sharerId%3D144818557%26sharerefer%3DPC%26sharesource%3Dkjihi%26spm%3D1011.2480.3001.8118; c_ref=https%3A//blog.csdn.net/kjihi%3Ftype%3Dblog; creative_btn_mp=1; HMACCOUNT=41E85C9C4E1F8665; hide_login=1; UserName=kjihi; UserInfo=6c2bb9d583184ee799d03045229e9759; UserToken=6c2bb9d583184ee799d03045229e9759; UserNick=kimwonjoon; AU=174; BT=1743852373603; Hm_lpvt_6bcd52f51e9b3dce32bec4a3997715ac=1743852374; creativeSetApiNew=%7B%22toolbarImg%22%3A%22https%3A//img-home.csdnimg.cn/images/20231011044944.png%22%2C%22publishSuccessImg%22%3A%22https%3A//img-home.csdnimg.cn/images/20240229024608.png%22%2C%22articleNum%22%3A0%2C%22type%22%3A0%2C%22oldUser%22%3Afalse%2C%22useSeven%22%3Atrue%2C%22oldFullVersion%22%3Afalse%2C%22userName%22%3A%22kjihi%22%7D; log_Id_pv=4; log_Id_view=82; log_Id_click=10; dc_tos=su8t4z}
+
+spring:
+  application:
+    name: mcp-server-csdn
+
+  ai:
+    mcp:
+      server:
+        name: ${spring.application.name}
+        version: 1.0.0
+
+
+  main:
+    banner-mode: off
+    web-application-type: none
+
+logging:
+  pattern:
+    console:
+
+  file:
+    name: data/log/${spring.application.name}.log
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true
+
